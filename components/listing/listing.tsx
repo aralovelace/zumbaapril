@@ -10,7 +10,7 @@ export const Listing = ({
   img: string;
 }) => {
   return (
-    <li className="mb-10">
+    <li className="mb-8">
       <div className="flex">
         <div className="flex-shrink-0">
           <div className="flex items-center justify-center h-12 w-12 rounded-md  text-white">

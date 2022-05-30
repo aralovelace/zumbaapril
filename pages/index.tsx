@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import { Features, Header } from "../components";
+import { Features, FeaturesWithCards, Header } from "../components";
 
 const Home: NextPage = () => {
   return (
@@ -15,6 +15,7 @@ const Home: NextPage = () => {
       <main className="max-w-screen-xl mx-auto">
         <Header />
         <Features />
+        <FeaturesWithCards />
       </main>
 
       <footer></footer>

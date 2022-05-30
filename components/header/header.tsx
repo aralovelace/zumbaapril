@@ -12,6 +12,7 @@ export const Header = () => {
             <span className="font-bold block text-xl">
               CERTIFIED ZUMBA® INSTRUCTOR
             </span>
+            in Colchester, Essex
           </p>
           <p className="text-sm sm:text-base text-gray-700 dark:text-white">
             I love Dancing! I have been dancing Zumba for over 5 years now, and
