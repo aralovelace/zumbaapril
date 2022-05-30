@@ -32,6 +32,14 @@ export const Header = () => {
             >
               Follow me on Instagram
             </a>
+            <a
+                href="https://www.zumba.com/en-US/profile/april-smith/1939360"
+                target="_blank"
+                className="uppercase py-2 px-4 rounded-lg bg-pink-500 border-2 border-transparent text-white text-md mr-4 hover:bg-pink-400"
+                rel="noreferrer"
+            >
+              My ZUMBA PAGE
+            </a>
           </div>
         </div>
         <div className="w-full lg:w-3/5 relative ml-0 lg:ml-14 mt-12">
