@@ -6,7 +6,7 @@ export const Features = () => {
       <div className="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-12 lg:items-center">
         <div className="lg:col-start-2 md:pl-20">
           <h4 className="text-2xl leading-8 font-extrabold text-pink-800 dark:text-white tracking-tight sm:leading-9">
-            Certifications & Qualitifcations
+            Certifications & Qualifications
           </h4>
           <ul className="mt-10">
             <Listing
