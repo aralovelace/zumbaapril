@@ -44,8 +44,8 @@ export const Header = () => {
         </div>
         <div className="w-full lg:w-3/5 relative ml-0 lg:ml-14 mt-12">
           <iframe
-            width="560"
-            height="315"
+            className="w-full"
+            height="400"
             src="https://www.youtube.com/embed/WaJofwQnbfM"
             title="YouTube video player"
             frameBorder="0"
