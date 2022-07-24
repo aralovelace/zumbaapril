@@ -45,16 +45,8 @@ export const Features = () => {
           </ul>
         </div>
         <div className="mt-0  relative lg:mt-0 lg:col-start-1 mx-auto">
-          <Image
-            src="/images/zumba_april.png"
-            alt="April Smith Zumba"
-            width={500}
-            height={600}
-            className="relative mx-auto shadow-lg rounded w-auto"
-          />
-          <span className="text-xs block mt-1 text-gray-600">
-            Photo with ZES Steve Boedt and ZIN Cristian Cauteruccio
-          </span>
+          <a href="https://www.protectivity.com/product/personal-trainer-insurance/?showCert=true&policy=2TP5jzZRv1nCMvWcoSoCWA2" title="Personal Trainer and Coaches Insurance Site Seal" target="_blank" rel="noreferrer"><img src="https://www.protectivity.com/customer/siteseal/asset/5" alt="Personal Trainer and Coaches Insurance Site Seal by Protectivity" width="400" height="4
+          00" /></a>
         </div>
       </div>
     </div>
